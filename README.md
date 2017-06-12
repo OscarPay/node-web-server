@@ -6,4 +6,6 @@ Using node v6.10.3 (npm v3.10.10)
 
 ## Examples
 
-`node server.js'`
+`node server.js`
+
+`npm start`
